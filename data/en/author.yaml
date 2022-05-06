@@ -1,0 +1,14 @@
+# Some information about me
+name: "Chris Jones"
+nickname: "Chris"
+# Greeting message before my name.
+greeting: "Hi, I'm"
+image: "images/author/chris.jpg"
+# gives some of my contact information. will be used in footer.
+contactInfo:
+  email: "chrisj998@yahoo.com"
+  
+# some summary about me
+summary:
+  - I am a Student at Case Western Reserve University
+  - Studying for a MS in Biostatistics

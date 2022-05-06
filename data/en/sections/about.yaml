@@ -1,0 +1,49 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+  
+# your designation
+designation: Biostatistics Student
+
+# here is my resume. this file path will be relative to the "static" directory
+resume: "files/CJones-Resume-2022-3-17.pdf"
+
+
+# a summary about me 
+summary: "Hi! Welcome to my portfolio site. I am a 23 year old student hoping to get into the working industry for biostatistics. My main interests include data science and genomics. I am always looking to improve my skills in statistical analysis and statistical programming. My main hobbies include playing soccer and gaming."
+# social links
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/Chrisj998"
+
+- name: LinkedIn
+  icon: "fab fa-stack-overflow"
+  url: "https://www.linkedin.com/in/chris-jones998/"
+# soft skills
+# give the percentage between 50 and 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Team Work
+  percentage: 95
+  color: yellow
+- name: Communication
+  percentage: 95
+  color: blue
+- name: Organized
+  percentage: 90
+  color: green
+- name: Willingness to Learn 
+  percentage: 100
+  color: sky
+- name: Open-minded
+  percentage: 100
+  color: pink
+
+  
+  
