@@ -36,7 +36,7 @@ projects:
 - name: 432 Project B 
   repo: https://github.com/Chrisj998/432-Projects-2022/tree/main/ProjectB
   summary: A count and ordinal categorical outcome analysis on BRFSS adults looking at recent mental health and income level based on adverse childhood experience.
-
+  tags: ["academic"]
 
 
 
