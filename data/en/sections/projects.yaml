@@ -21,18 +21,21 @@ buttons:
   
 # section of projects
 projects:
-- name: 431 ProjectA
+- name: 431 Project A
   repo: https://github.com/Chrisj998/431-Projects/tree/main/ProjectA
-  summary: An analysis of educational and social factors on suicide rates using NHANES data.
+  summary: A linear regression analysis of educational and social factors on suicide rates using NHANES data.
   tags: ["academic"]
-- name: 431 ProjectB
+- name: 431 Project B
   repo: https://github.com/Chrisj998/431-Projects/tree/main/ProjectB
   summary: A statistical analysis of NHANES 2017-18 data with two separate studies.
   tags: ["academic"]
 - name: 432 Project A
   repo: https://github.com/Chrisj998/432-Projects-2022/tree/main/ProjectA
   tags: ["academic"]
-  summary: A study performed on NHS 2020 data that observes covid concerns and how smoking/drinking habits impact weight.
+  summary: A linear and logistic regression performed on NHS 2020 data that observes covid concerns and how smoking/drinking habits impact weight.
+- name: 432 Project B 
+  repo: https://github.com/Chrisj998/432-Projects-2022/tree/main/ProjectB
+  summary: A count and ordinal categorical outcome analysis on BRFSS adults looking at recent mental health and income level based on adverse childhood experience.
 
 
 
