@@ -11,11 +11,11 @@ section:
 designation: Biostatistics Student
 
 # here is my resume. this file path will be relative to the "static" directory
-resume: "files/CJones-Resume-2022-3-17.pdf"
+resume: "files/CJones-Resume-2022-5-20.pdf"
 
 
 # a summary about me 
-summary: "Hi! Welcome to my portfolio site. I am a 23 year old student hoping to get into the working industry for biostatistics. My main interests include data science and genomics. I am always looking to improve my skills in statistical analysis and statistical programming. My main hobbies include playing soccer and gaming."
+summary: "Hi! Welcome to my portfolio site. I am a 23 year old student hoping to get into the working industry for biostatistics. Through my education I've gained experience and knowledge in analyzing public health data with a focus on genomics. I am always looking to improve my skills in statistical analysis and statistical programming. My main hobbies include playing soccer and gaming."
 # social links
 socialLinks:
 - name: Github
