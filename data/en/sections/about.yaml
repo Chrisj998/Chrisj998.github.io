@@ -8,14 +8,14 @@ section:
   template: sections/about.html
   
 # your designation
-designation: Biostatistics Student
+designation: MS in Biostatistics
 
 # here is my resume. this file path will be relative to the "static" directory
-resume: "files/CJones-Resume-2022-5-20.pdf"
+resume: "files/CJones-Resume-2022-11-6.pdf"
 
 
 # a summary about me 
-summary: "Hi! Welcome to my portfolio site. I am a 23 year old student hoping to get into the working industry for biostatistics. Through my education I've gained experience and knowledge in analyzing public health data with a focus on genomics. I am always looking to improve my skills in statistical analysis and statistical programming. My main hobbies include playing soccer and gaming."
+summary: "Hi! Welcome to my portfolio site. I am a 24 year old recent graduate, ex-collegiate soccer player, and avid gamer. Constantly working on my storytelling through data."
 # social links
 socialLinks:
 - name: Github

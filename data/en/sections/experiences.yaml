@@ -9,7 +9,21 @@ section:
   # hideTitle: true
   
 # Experiences
+
 experiences:
+- company:
+    name: University Hospitals
+    url: "https://www.uhhospitals.org/"
+    location: Cleveland Seidman Cancer Center
+    # company overview
+  positions:
+  - designation: Pediatric Clinical Integration Intern
+    start: August 2022
+    # end: 
+    responsibilities:
+    - Assist in development/implementation of software
+    - Performed data cleaning and analysis on lung cancer patient research
+  
 - company:
     name: Numerator
     url: "https://www.numerator.com/"
